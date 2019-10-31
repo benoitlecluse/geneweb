@@ -3,6 +3,7 @@
  (public_name geneweb-lib.util)
  (wrapped false)
  (libraries
+   calendars
    stdlib-shims
    unidecode
    geneweb-lib.def
